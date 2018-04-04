@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: DX Plugin Base
- * Description: A plugin framework for building new WordPress plugins reusing the accepted APIs and best practices
- * Plugin URI: http://example.org/
- * Author: nofearinc
- * Author URI: http://devwp.eu/
+ * Plugin Name: pigeon
+ * Description: A plugin for expanding functionality of WordPress
+ * Plugin URI: http://rishelsolutions.com/pigeon/
+ * Author: Ed Rishel
+ * Author URI: http://rishelsolutions.com/
  * Version: 1.6
- * Text Domain: dx-sample-plugin
+ * Text Domain: pigeon
  * License: GPL2
 
  Copyright 2011 mpeshev (email : mpeshev AT devrix DOT com)
